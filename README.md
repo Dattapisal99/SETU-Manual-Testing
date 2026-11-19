@@ -1,6 +1,4 @@
-# SETU-Manual-Testing
-Manual Testing Project – SETU Application
-SETU Project – Manual Testing
+<h1>SETU Project – Manual Testing</h1>
 Project Overview
 SETU is a manual software testing project documented in an Excel test execution workbook. This repository is intended to present the QA testing scope, test scenarios, execution results, and defect observations for the Login, Doctor, and Mental Health areas of the application.
 Important: Upload this project only if you are authorized to share the workbook and project information. If the application or workbook contains confidential company information, keep the GitHub repository Private and remove sensitive data before sharing it.
