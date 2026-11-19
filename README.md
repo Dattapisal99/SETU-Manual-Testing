@@ -81,6 +81,7 @@ The workbook uses these fields:
 - Re-Test details and Re-Test Status
 Suggested Repository Structure
 SETU-Manual-Testing/
+SETU-Manual-Testing/
 ├── README.md
 ├── Test-Cases/
 │   └── Setu_10-08-2026.xlsx
